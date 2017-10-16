@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+ .header {
+    margin-bottom: 2rem;
+  }
